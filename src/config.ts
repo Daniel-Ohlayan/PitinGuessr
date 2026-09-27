@@ -14,5 +14,5 @@
 export const YANDEX_MAPS_API_KEY = 'b3c19168-7791-4c0e-895a-d2455f99136c';
 
 /** Название игры — меняется здесь и сразу везде в интерфейсе. */
-export const GAME_TITLE = 'PitinGuessr';
+export const GAME_TITLE = 'PutinGuessr';
 export const GAME_SUBTITLE = 'Угадайте место в России по панораме';
