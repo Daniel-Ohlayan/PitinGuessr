@@ -23,6 +23,8 @@ jobs:
         with:
           node-version: 20
           cache: npm
+      - name: Распаковка данных городов
+        run: unzip -o data.zip
       - run: npm ci
       - run: npm run build
         env:
